@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.walkercwhite.com"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -62,7 +62,8 @@ languageName = "English"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   description = "The last stop for all your perambulatory needs."
   # website images for Open Graph and Twitter Cards
-  images = ["/logo.png"]
+  images = [""]
+
 
   # Header config
   [params.header]
@@ -164,9 +165,9 @@ languageName = "English"
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "silence.dofine@gmail.com"
+      gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/images/amby_bright.png"
       #  title shown in home page (HTML format is supported)
       title = "Walker's Website"
       # subtitle shown in home page (HTML format is supported)

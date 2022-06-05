@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Walker&#39;s Website</title>
+        <link>http://www.walkercwhite.com/posts/</link>
+        <description>All Posts | Walker&#39;s Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>wwhite@walkercwhite.com (The Happy Ambulator)</managingEditor>
+            <webMaster>wwhite@walkercwhite.com (The Happy Ambulator)</webMaster><lastBuildDate>Sat, 04 Jun 2022 11:33:46 -0700</lastBuildDate><atom:link href="http://www.walkercwhite.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello World, again.</title>
+    <link>http://www.walkercwhite.com/first_post/</link>
+    <pubDate>Sat, 04 Jun 2022 11:33:46 -0700</pubDate>
+    <author>The Happy Ambulator</author>
+    <guid>http://www.walkercwhite.com/first_post/</guid>
+    <description><![CDATA[Hello again world.]]></description>
+</item>
+</channel>
+</rss>
