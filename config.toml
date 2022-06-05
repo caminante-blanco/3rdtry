@@ -482,10 +482,10 @@ languageName = "English"
 
   #  Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-G64G4J2NW9"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
@@ -502,7 +502,7 @@ languageName = "English"
 
   #  Cookie consent config
   [params.cookieconsent]
-    enable = true
+    enable = false
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
       message = ""
